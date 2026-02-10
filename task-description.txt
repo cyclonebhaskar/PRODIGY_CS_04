@@ -1,0 +1,8 @@
+Task 04 – Ethical Keylogger
+
+Create a basic keylogger program that records and logs keystrokes.
+The program logs keys pressed and saves them to a file.
+This project is strictly for educational purposes and requires user consent.
+
+Internship Track: Cyber Security
+Organization: Prodigy Infotech
