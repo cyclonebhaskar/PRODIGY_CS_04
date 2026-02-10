@@ -1,0 +1,4 @@
+
+
+--- Logging started at 2026-02-10 20:29:39.740845 ---
+hello [Key.space] world [Key.enter]  [Key.cmd] sn [Key.backspace]  [Key.ctrl_l]  [Key.ctrl_l]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.ctrl_l] 
