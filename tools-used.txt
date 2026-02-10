@@ -1,0 +1,6 @@
+Tools & Technologies Used:
+
+1. Python 3
+2. pynput library
+3. Visual Studio Code
+4. GitHub
